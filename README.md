@@ -7,7 +7,7 @@
 ## 安装
 
 1. 安装 Tampermonkey 或兼容的用户脚本管理器。
-2. [安装脚本](https://raw.githubusercontent.com/JasperJPLiu/daily-red-zh-CN/main/daily-red-zh-CN.user.js)。
+2. 推荐从 [Greasy Fork 发布页](https://greasyfork.org/zh-CN/scripts/600204-daily-red-%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%B8%8E%E6%8B%9B%E5%BC%8F%E4%B8%AD%E6%96%87) 安装，或使用 [GitHub 直接安装](https://raw.githubusercontent.com/JasperJPLiu/daily-red-zh-CN/main/daily-red-zh-CN.user.js)。
 3. 打开或刷新 Daily Red 页面。
 
 仅匹配 `daily-red.com` 与 `www.daily-red.com`，使用 `@grant none`；词典与招式数据内置。脚本不提供完整界面汉化，不改变游戏规则。
